@@ -2,9 +2,85 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+    {
+      "id": 4,
+      "title": "Post 4"
+    }
+    {
+      "id": 5,
+      "title": "Post 5"
     }
   ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Comment 2",
+      "postId": 1
+    }
+    {
+      "id": 3,
+      "body": "Comment 3",
+      "postId": 1
+    }
+    {
+      "id": 4,
+      "body": "Comment 4",
+      "postId": 1
+    }
+    {
+      "id": 5,
+      "body": "Comment 5",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+     }
+     {
+      "id": 2,
+      "name": "Re Abd",
+      "username": "Bret",
+      "email": "ded@ayahoo.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+     }
+  ]
+  
   "profile": {
     "name": "typicode"
   }
